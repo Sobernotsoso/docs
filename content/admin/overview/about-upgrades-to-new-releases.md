@@ -44,6 +44,6 @@ To upgrade your enterprise to a new release, see "[Release notes](/enterprise-se
 
 ## Further reading
 
-- [ {% data variables.product.prodname_roadmap %} ]( {% data variables.product.prodname_roadmap_link %} ) in the  `github/roadmap` repository{% ifversion ghae %}
-- [ {% data variables.product.prodname_ghe_managed %} release notes](/admin/release-notes)
+- [50 {% data variables.product.prodname_roadmap %} ]( {% data variables.product.prodname_roadmap_link %} ) in the  `github/roadmap` repository{% ifversion ghae %}
+- [ 50{% data variables.product.prodname_ghe_managed %} release notes](/admin/release-notes)
 {% endif %}
